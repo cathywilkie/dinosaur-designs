@@ -19,9 +19,9 @@ h1 {
 }
 
 figcaption {
-font-size: .8rem;
-font-style: italic;
-text-align: center;
+  font-size: .8rem;
+  font-style: italic;
+  text-align: center;
 }
 
 nav {
@@ -30,8 +30,8 @@ nav {
 }
 
 nav ol {
-color: #793284;
-text-decoration: none;
+  color: #793284;
+  text-decoration: none;
 }
 
 nav a {
